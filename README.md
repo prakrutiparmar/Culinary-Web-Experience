@@ -62,7 +62,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/pr/project_html_css_website](https://github.com/prakrutiparmar/Culinary-Web-Experience.git
+git clone https://github.com/prakrutiparmar/Culinary-Web-Experience.git
 cd project_html_css_website
 ```
 
